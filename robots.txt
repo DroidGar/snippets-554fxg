@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DroidGar.github.io/snippets-554fxg/sitemap.xml
